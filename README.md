@@ -23,8 +23,13 @@ uma ferramenta em C++ para extrair informações de arquivos executáveis (.exe)
 
 ## Exemplo de Saída:
 Enter the path to the .exe file: C:/path/to/file.exe
+
 File Name: file
+
 File Size: 1234567 bytes
+
 MD5: 098f6bcd4621d373cade4e832627b4f6
+
 PcaSvc: 0x1000
+
 DPS: !2023/08/22:15:00:00
