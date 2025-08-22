@@ -1,7 +1,7 @@
 
 # Mtxucro Extractor Strings
 
-Este repositório contém uma ferramenta em C++ que extrai informações de arquivos executáveis (.exe), incluindo o cálculo do hash MD5, nome do arquivo, tamanho, e informações de tempo. Ele foi projetado para fornecer insights sobre arquivos PE (Portable Executable), como aqueles usados no sistema operacional Windows.
+uma ferramenta em C++ para extrair informações de arquivos executáveis (.exe). Ela calcula o hash MD5, mostra o nome, o tamanho do arquivo e ainda dá detalhes sobre o tempo de criação. Foi feita para ajudar a entender melhor arquivos PE, aqueles usados no Windows.
 
 ## Funcionalidades:
 - Cálculo do hash MD5 de arquivos para integridade e verificação.
